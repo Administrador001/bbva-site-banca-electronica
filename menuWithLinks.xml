@@ -333,7 +333,8 @@ ul#comunicacionessub li a {
         gadgets.util.registerOnLoadHandler(datospagina);
         function datospagina()
         {
-				var parametros = gadgets.util.getUrlParameters()["parent"];    
+				//var parametros = gadgets.util.getUrlParameters()["parent"];  
+				var parametros = document.referrer;
                 if (parametros.indexOf("colombia")!=-1)
                 {
                         document.getElementById("colombia").style.backgroundColor = "#2586D7";
@@ -476,7 +477,8 @@ ul#comunicacionessub li a {
                 var i,j,k = 0;
                 var base = "";
                 var barra = "/";
-                var parametros = gadgets.util.getUrlParameters()["parent"].split("/");  
+                //var parametros = gadgets.util.getUrlParameters()["parent"].split("/"); 
+                var parametros = document.referrer.split("/");
                 var indexroot = indice(parametros, rootSite);  
                
 			   
