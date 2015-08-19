@@ -333,20 +333,24 @@ ul#comunicacionessub li a {
         function datospagina()
         {
 				var parametros = gadgets.util.getUrlParameters()["parent"];    
-                if (parametros.indexOf("colombia")!=-1)
+                if (parametros.indexOf("ct_bt")!=-1)
                 {
-                        document.getElementById("colombia").style.backgroundColor = "#2586D7";
+                        document.getElementById("ctbt").style.backgroundColor = "#2586D7";
                 }
                
-                if (parametros.indexOf("peru")!=-1)
+                if (parametros.indexOf("productos")!=-1)
                 {
-                        document.getElementById("peru").style.backgroundColor = "#2586d7";
+                        document.getElementById("productos").style.backgroundColor = "#2586d7";
                 }
                
-				if (parametros.indexOf("estados-de-servicio")!=-1)
+				if (parametros.indexOf("despliegueymantenimiento")!=-1)
                 {
-                        document.getElementById("estado").style.backgroundColor = "#2586d7";
-                }			
+                        document.getElementById("despliegueymantenimiento").style.backgroundColor = "#2586d7";
+                }
+                if (parametros.indexOf("eventosycomunicaciones")!=-1)
+                {
+                        document.getElementById("eventosycomunicaciones").style.backgroundColor = "#2586d7";
+                }		
         }
         </script>
 
