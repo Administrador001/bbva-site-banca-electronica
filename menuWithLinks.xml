@@ -186,44 +186,54 @@ width: 60px;
 /*background: url('https://bbva-implantaciones-eyp.googlecode.com/svn/trunk/img/separador-menu.png') no-repeat scroll right top transparent;*/
 }
 
-#colombia,
-#peru,
-#estado{
+#ctbt,
+#productos,
+#despliegueymantenimiento,
+#eventosycomunicaciones{
   float: left;
   text-align: center;
   /*background: url('https://bbva-implantaciones-eyp.googlecode.com/svn/trunk/img/separador-menu.png') no-repeat scroll right top transparent;*/
 }
 
-#colombia{
+#ctbt{
 	padding-left:0px;
 }
 
-#colombia:hover{
+#ctbt:hover{
 	background-color: #2586d7;
 	color:#fff;
 	height: 39px;
 }
 
-#peru{
+#productos{
 	padding-left:0px;
 }
 
-#peru:hover{
+#productos:hover{
 	background-color: #2586d7;
 	color:#fff;
 	height: 39px;
 }
 
-#estado{
+#despliegueymantenimiento{
 	padding-left:0px;
 }
 
-#estado:hover{
+#despliegueymantenimiento:hover{
 	background-color: #2586d7;
 	color:#fff;
 	height: 39px;
 }
 
+#eventosycomunicaciones{
+	padding-left:0px;
+}
+
+#eventosycomunicaciones:hover{
+	background-color: #2586d7;
+	color:#fff;
+	height: 39px;
+}
 
 
 /*#comunicaciones a .imageunnim{
