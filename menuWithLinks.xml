@@ -484,7 +484,7 @@ ul#comunicacionessub li a {
         {
 				// Construct the breadcrumb string
                 //var rootSite = prefs.getString("VarrootSite");
-                var rootSite = "tradefinance";
+                var rootSite = "tradefinance/home";
                 var s ="";
                 var i,j,k = 0;
                 var base = "";
