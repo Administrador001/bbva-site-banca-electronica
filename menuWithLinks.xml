@@ -328,7 +328,9 @@ ul#comunicacionessub li a {
 	        <li id="ctbt" class="top"><span class="enlace" tabindex="0"><span><a style="color: rgb(255, 255, 255);" href="https://sites.google.com/a/bbva.com/tradefinance/home/ct_bt"  target="_parent" title="CT/BT">CT/BT</a></span></span></li>
 		<li id="productos" class="top" ><span class="enlace" tabindex="1"><span><a class="principal" style="color: rgb(255, 255, 255);" href="https://sites.google.com/a/bbva.com/tradefinance/home/productos"  target="_parent" title="Productos">Productos</a></span></span></li>
 		<li id="despliegueymantenimiento" class="top"><span class="enlace" tabindex="2"><span><a class="principal" style="color: rgb(255, 255, 255);" href="https://sites.google.com/a/bbva.com/tradefinance/home/despliegueymantenimiento"  target="_parent" title="Despliegue y mant.">Despliegue y mantenimiento</a></span></span></li>
-		<li id="dashboard" class="top"><span class="enlace" tabindex="3"><span><a class="principal" style="color: rgb(255, 255, 255);" href="https://sites.google.com/a/bbva.com/tradefinance/home/informes"  target="_parent" title="Dashboard">Dashboard</a></span></span></li>	
+		<li id="dashboard" class="top"><span class="enlace" tabindex="3"><span><a class="principal" style="color: rgb(255, 255, 255);" href="https://sites.google.com/a/bbva.com/tradefinance/home/informes"  target="_parent" title="Dashboard">Dashboard</a></span></span></li>
+		<li id="eventosycomunicaciones" class="top"><span class="enlace" tabindex="4"><span><a class="principal" style="color: rgb(255, 255, 255);" href="https://sites.google.com/a/bbva.com/tradefinance/home/eventosycomunicaciones"  target="_parent" title="Eventos y comunicaciones">Eventos y comunicaciones</a></span></span></li>
+		
 	  </ul>
 	</div>
 </div>
